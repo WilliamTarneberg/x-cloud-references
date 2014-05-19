@@ -1053,6 +1053,31 @@
   Read                     = {Yes}
 }
 
+@Article{Mitra:2011:CWV:1961659.1961662,
+  Title                    = {Characterizing Web-Based Video Sharing Workloads},
+  Author                   = {Mitra, Siddharth and Agrawal, Mayank and Yadav, Amit and Carlsson, Niklas and Eager, Derek and Mahanti, Anirban},
+  Journal                  = {ACM Trans. Web},
+  Year                     = {2011},
+
+  Month                    = may,
+  Number                   = {2},
+  Pages                    = {8:1--8:27},
+  Volume                   = {5},
+
+  Acmid                    = {1961662},
+  Address                  = {New York, NY, USA},
+  Articleno                = {8},
+  Comment                  = {Traffic model - Video sharing},
+  Doi                      = {10.1145/1961659.1961662},
+  File                     = {:http\://dl.acm.org/ft_gateway.cfm?id=1961662&ftid=969976&dwn=1&CFID=339754131&CFTOKEN=22679931:URL},
+  ISSN                     = {1559-1131},
+  Issue_date               = {May 2011},
+  Keywords                 = {Video sharing, power law, social interaction, user-generated content, workload characterization},
+  Numpages                 = {27},
+  Publisher                = {ACM},
+  Url                      = {http://doi.acm.org/10.1145/1961659.1961662}
+}
+
 @Article{mohamedadding,
   Title                    = {Adding Monitoring and Reconfiguration Facilities for Service-based Applications in the Cloud},
   Author                   = {Mohamed, Mohamed and Bela{\i}d, Djamel and Tata, Samir}
