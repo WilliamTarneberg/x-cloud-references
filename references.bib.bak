@@ -384,15 +384,6 @@
   Read                     = {No}
 }
 
-@InProceedings{chang2012placement,
-  Title                    = {Placement in clouds for application-level latency requirements},
-  Author                   = {Chang, Fangzhe and Viswanathan, Ramesh and Wood, Tom L},
-  Booktitle                = {Cloud Computing (CLOUD), 2012 IEEE 5th International Conference on},
-  Year                     = {2012},
-  Organization             = {IEEE},
-  Pages                    = {327--335}
-}
-
 @InProceedings{chen2001ad,
   Title                    = {Ad hoc relay wireless networks over moving vehicles on highways},
   Author                   = {Chen, Zong Da and Kung, HT and Vlah, Dario},
@@ -740,6 +731,18 @@
   Volume                   = {3}
 }
 
+@InProceedings{herrero2011large,
+  Title                    = {Large-scale simulator for global data infrastructure optimization},
+  Author                   = {Herrero-Lopez, Sergio and Williams, John R and Sanchez, Abel},
+  Booktitle                = {Cluster Computing (CLUSTER), 2011 IEEE International Conference on},
+  Year                     = {2011},
+  Organization             = {IEEE},
+  Pages                    = {54--64},
+
+  Comment                  = {Data centre model},
+  File                     = {:http\://cybersecurity.mit.edu/pickup/simulator/06061065.pdf:URL}
+}
+
 @Article{1413185,
   Title                    = {Information raining and optimal link-layer design for mobile hotspots},
   Author                   = {Ho, D.H. and Valaee, S.},
@@ -840,6 +843,14 @@
   Date-modified            = {2013-11-15 13:19:52 +0000},
   Rating                   = {5},
   Read                     = {Yes}
+}
+
+@Article{juanbeyond,
+  Title                    = {Beyond Poisson: Modeling Inter-Arrival Times of Requests in a Datacenter},
+  Author                   = {Juan, Da-Cheng},
+
+  Comment                  = {Traffic model - Data Centre},
+  File                     = {:http\://www.ml.cmu.edu/research/dap-papers/dacheng_dap_final.pdf:URL}
 }
 
 @Article{Junco2012162,
@@ -1009,6 +1020,7 @@
   Institution              = {Alcatel Lucent},
   Year                     = {2009},
 
+  Comment                  = {Network Architecture},
   Date-added               = {2014-01-12 20:06:00 +0000},
   Date-modified            = {2014-01-12 20:07:21 +0000}
 }
@@ -1570,7 +1582,6 @@
   Year                     = {2014},
 
   Comment                  = {Simulation framwork},
-  Owner                    = {eit-wit},
   Timestamp                = {2014.04.16}
 }
 
